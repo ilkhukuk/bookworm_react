@@ -1,9 +1,9 @@
-## REACT-ROUTER-DOM AND AXIOS PRACTICE
+# REACT-ROUTER-DOM AND AXIOS PRACTICE
 
-# USED
+## USED
 * React - Vite
 * Axios
-* Boostrap* 
+* Boostrap
 * React-Router-Dom
 * useState, useEffect
 * useParams, useNavigate, useLocation, useSearchParams from react-router-dom
